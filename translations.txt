@@ -1,1 +1,15 @@
-
+Delete=刪除
+Cancel=取消
+Incorrect Name=名稱不正確
+Enter Character Name=輸入角色名稱
+Reset Skills=重置技能
+Reset Attributes=重置屬性
+Currently Equipped=目前已裝備
+Accept=接受
+Decline=拒絕
+Purchase=購買
+Sell=出售
+Advanced Filtering=進階篩選
+Rogue=盜賊
+Shinobi=忍者
+Knife=短刀
